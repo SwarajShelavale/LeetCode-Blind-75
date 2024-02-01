@@ -1,6 +1,6 @@
 # LeetCode Blind 75 Questions Solutions
 
-Welcome to the **LeetCode Blind 75 Questions Solutions Repository!** This repository contains Java solutions for the Blind 75 Questions, a curated set of algorithmic problems frequently encountered in technical interviews. You can find the [Blind 75 List here](https://leetcode.com/list/xoqag3yj/).
+Welcome to the **LeetCode Blind 75 Questions Solutions Repository!** This repository contains Java solutions for the Blind 75 Questions, a curated set of algorithmic problems frequently encountered in technical interviews. You can find the [Blind 75 List here](https://leetcode.com/list/p8slv77h).
 
 Each solution is accompanied by **Detailed Explanations, Intuitive Approaches, and Time Complexity Analyses** to help you master the art of algorithmic problem-solving.
 
