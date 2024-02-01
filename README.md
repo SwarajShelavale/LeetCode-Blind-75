@@ -77,9 +77,7 @@ Each solution is accompanied by **Detailed Explanations, Intuitive Approaches, a
 69. [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 70. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 71. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
-72. [Non-over
-
-lapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+72. [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 73. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 74. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 75. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
