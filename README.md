@@ -87,7 +87,8 @@ Each solution is accompanied by **Detailed Explanations, Intuitive Approaches, a
 
 To access the solutions for each problem, simply click on the respective problem title. Each problem has its own markdown file which contains the `Problem Link`, `Description`, `Solution Approach`, `Java Code`, `Complexity Analysis`, and `Code Explanation`.
 
-Contribution
+## Contribution
+
 Contributions to this repository are welcome! If you have alternative solutions or improvements to existing solutions, feel free to open a pull request.
 
 For any queries, please feel free to reach out to me at `shelavaleswaraj1610@gmail.com`
